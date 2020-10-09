@@ -2,11 +2,6 @@
 <html lang="en">
   <head>
 
-
-
-
-
-
     <?php
       if(isset($_POST['title'])){
 $path = "C:/xampp/htdocs/firebase/notifications/notification.php";
